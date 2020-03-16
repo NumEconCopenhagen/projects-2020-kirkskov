@@ -1,5 +1,3 @@
 # Inaugural project
 
-The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
-
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+In this assigmnet we are examining optimal levels of taxation and tax cutoffs. First, we code the functions in Python and analyse the correlation between wage/labour supply and wage/consumption - both prove to be positive. The we simulate the model on 10.000 people, and apply changes to analyse the outcomes. We find that lowering the Frisch-elasticity will increase tax revenue, because the taxes become less distortionary. At last we maximize the tax revenue in regard to the taxation levels and cutoff between regular/top tax. The results show that optimally we would have a fairly high income tax of 78 percent, but virtually no top-tax.
